@@ -1,0 +1,5 @@
+name: Faux
+version: 2.5
+author: SupRMinecraftien
+main: fr.suprminecraftien.faux.Main
+api-version: "1.13"
