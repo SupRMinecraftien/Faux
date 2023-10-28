@@ -1,0 +1,6 @@
+name: SuperHoes
+version: '${project.version}'
+main: fr.suprminecraftien.superhoes.Main
+api-version: '1.16'
+authors: [SupRMinecraftien]
+description: This plugin add some super hoes! They can plant in a 3*3 radius !
